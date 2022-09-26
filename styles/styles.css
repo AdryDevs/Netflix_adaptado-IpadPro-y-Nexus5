@@ -91,6 +91,7 @@ body {
     align-items: flex-end;
     font-size: x-large;
     color: white;
+    padding-bottom: 4vh;
 }
 
 #img1 {
